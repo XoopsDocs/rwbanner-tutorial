@@ -14,7 +14,7 @@
 
 This module is for managing and showing random banners, that can be used or not together with the default XOOPS banner system.
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the rwBanner Module (Admin side)*
 
 ## Key Features
