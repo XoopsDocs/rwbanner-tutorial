@@ -33,6 +33,16 @@ This module is for managing and showing random banners, that can be used or not 
 
 - Showing or not random banners in the text of other modules. Now you can show your banners in any module that accepts bbcodes. You can publish banners in news, articles, static pages, including in any forum posts. (this feature requires a small hack in the xops core that will be explained in the installation instructions below).
 
+## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+
+**You can fork the module --> [here](https://github.com/XoopsModules25x/rwbanner))** 
+
+## How to Contribute
+
+[You can contribute on GitHub](https://github.com/XoopsDocs/rwbanner-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/rwbanner-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/rwbanner-tutorial) changes.
+
+Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
+
 # Table of Content
 
 * [Install/Uninstall](book/1install.md)
@@ -42,9 +52,9 @@ This module is for managing and showing random banners, that can be used or not 
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
+* [Miscellaneous](book/8other.md) 
 * [Module Credits](book/9credits.md)
-* 
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
