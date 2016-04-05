@@ -2,13 +2,13 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module rwBanner
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.8
       
 ![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
-© 2015 XOOPS Project ([www.xoops.org](http://xoops.org))    
+© 2016 XOOPS Project ([www.xoops.org](http://xoops.org))    
 
 ## Module Purpose 
 
@@ -27,7 +27,7 @@ This module is for managing and showing random banners, that can be used or not 
 
 - Activation and deactivation option of banners by one click. Only active banners will be shown but the inactive ones continue registered in the database, allowing you to reactivate them at any time.
 
-- Beyond the banners exhibition blocks it is also possible to use the random banner in the theme of your site or in any other page you wish, having only to add the <{$rw_banner}> tag (this feature requires a small hack in the xops core that will be explained in the installation instructions below).
+- Beyond the banners exhibition blocks it is also possible to use the random banner in the theme of your site or in any other page you wish, having only to add the <{$rw_banner}> tag (this feature requires a small hack in the XOOPS core that will be explained in the installation instructions below).
 
 - Statistics page for the client. In the main page of the module is a table with all the statistics of the banners for the logged client. Further, in this page the client has the option to send the banner statistics for his registered e-mail.
 
