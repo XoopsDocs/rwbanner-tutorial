@@ -1,6 +1,11 @@
 # Introduction
 
 ![logoXoops.jpg](.gitbook/assets/logoxoops%20%282%29.jpg)
+![logoModule.png](en/assets/logoModule.png)
+            
+## User Manual
+
+© 2015 XOOPS Project ([www.xoops.org](https://xoops.org))    
 
 ## Module rwBanner
 
@@ -10,7 +15,7 @@
 
 ### User Manual
 
-© 2015 XOOPS Project \([www.xoops.org](http://xoops.org)\)
+© 2015 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -30,7 +35,7 @@ This module is for managing and showing random banners, that can be used or not 
 * Statistics page for the client. In the main page of the module is a table with all the statistics of the banners for the logged client. Further, in this page the client has the option to send the banner statistics for his registered e-mail.
 * Showing or not random banners in the text of other modules. Now you can show your banners in any module that accepts bbcodes. You can publish banners in news, articles, static pages, including in any forum posts. \(this feature requires a small hack in the xops core that will be explained in the installation instructions below\).
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/rwbanner)**\)**
 
@@ -58,5 +63,6 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
