@@ -8,7 +8,7 @@
             
 ## User Manual
 
-© 2015 XOOPS Project ([www.xoops.org](http://xoops.org))    
+© 2015 XOOPS Project ([www.xoops.org](https://xoops.org))    
 
 ## Module Purpose 
 
@@ -33,7 +33,7 @@ This module is for managing and showing random banners, that can be used or not 
 
 - Showing or not random banners in the text of other modules. Now you can show your banners in any module that accepts bbcodes. You can publish banners in news, articles, static pages, including in any forum posts. (this feature requires a small hack in the xops core that will be explained in the installation instructions below).
 
-## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --> [here](https://github.com/XoopsModules25x/rwbanner))** 
 
@@ -60,4 +60,4 @@ Editing the book can be done either by updating the markdown files with a text e
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
