@@ -1,11 +1,11 @@
 # Introduction
 
 ![logoXoops.jpg](.gitbook/assets/logoxoops%20%282%29.jpg)
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ## User Manual
 
-© 2015 XOOPS Project ([www.xoops.org](https://xoops.org))    
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))    
 
 ## Module rwBanner
 
@@ -15,7 +15,7 @@
 
 ### User Manual
 
-© 2015 XOOPS Project \([www.xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -23,7 +23,7 @@ This module is for managing and showing random banners, that can be used or not 
 
  _Figure 1: Main view of the rwBanner Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001%20%281%29.jpg)
+![](.gitbook/assets/image001%20%281%29.jpg)
 
 ### Key Features
 
